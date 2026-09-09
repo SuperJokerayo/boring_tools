@@ -324,6 +324,47 @@ TODO:
 
 
 
+
+## Update on 2026-09-09
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-08|2026-09-08|TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model|Anqi Li|[2609.09158v1](https://arxiv.org/pdf/2609.09158v1)|
+|2026-09-08|2026-09-08|Learning Length-Extrapolatable Recurrent Models|Hanwen Jiang|[2609.09157v1](https://arxiv.org/pdf/2609.09157v1)|
+|2026-09-08|2026-09-08|SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators|Yuncong Yang|[2609.09155v1](https://arxiv.org/pdf/2609.09155v1)|
+|2026-09-08|2026-09-08|Procedural Graphs: Self-Evolving Execution Structures for LLM Agents|Yuxing Lu|[2609.09153v1](https://arxiv.org/pdf/2609.09153v1)|
+|2026-09-08|2026-09-08|Proxy Policy Steering|Chuanruo Ning|[2609.09148v1](https://arxiv.org/pdf/2609.09148v1)|
+|2026-09-08|2026-09-08|NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting|Tobias Susetzky|[2609.09140v1](https://arxiv.org/pdf/2609.09140v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-08|2026-09-08|Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation|Jiacheng Xu|[2609.09135v1](https://arxiv.org/pdf/2609.09135v1)|
+|2026-09-08|2026-09-08|ExecCritic: Learn to Test, Test to Improve for Coding Agents|Leitian Tao|[2609.09133v1](https://arxiv.org/pdf/2609.09133v1)|
+|2026-09-08|2026-09-08|A Generalization of Amari's Bayesian Duality|Mohammad Emtiyaz Khan|[2609.09126v1](https://arxiv.org/pdf/2609.09126v1)|
+|2026-09-08|2026-09-08|DeCAL: Towards Physically-Grounded Dexterous Vision-Language-Action Models via Contact-Aware Latent Co-Imagination|Yankai Fu|[2609.09119v1](https://arxiv.org/pdf/2609.09119v1)|
+|2026-09-08|2026-09-08|SAEScientist-Bench: Can AI Agents Conduct Autonomous SAE Interpretability Research?|Yuqiao Tan|[2609.09113v1](https://arxiv.org/pdf/2609.09113v1)|
+|2026-09-08|2026-09-08|Measuring LLM Sycophancy under Sustained Multi-Turn Pressure|Leyuan Tang|[2609.09090v1](https://arxiv.org/pdf/2609.09090v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-08|2026-09-08|3DWay: Generalizing Robot Manipulation via 3D Consistent Waypoints|Ziqin Huang|[2609.08224v1](https://arxiv.org/pdf/2609.08224v1)|
+|2026-09-08|2026-09-08|WorldAgen: Unified State-Action Prediction with Test-Time World Model Training|Chi Wan|[2609.08162v1](https://arxiv.org/pdf/2609.08162v1)|
+|2026-09-07|2026-09-07|MEMOBench: A Process Level Memory Benchmark for Robotic Manipulation|Haiyang Sun|[2609.07047v1](https://arxiv.org/pdf/2609.07047v1)|
+|2026-09-05|2026-09-05|LayerRoute: Action-Conditioned Mixture-of-Layers Routing for Vision-Language-Action Policies|Zheng Lu|[2609.06079v1](https://arxiv.org/pdf/2609.06079v1)|
+|2026-09-02|2026-09-02|SimpleMemVLA: A Simple but Effective Native-Video Memory for Vision-Language-Action Models|Cheng Yin|[2609.05533v1](https://arxiv.org/pdf/2609.05533v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-08|2026-09-08|Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails|Zhou Yu|[2609.09134v1](https://arxiv.org/pdf/2609.09134v1)|
+|2026-09-08|2026-09-08|MeClear: Cooperative Game-Theoretic Attribution and Risk-Aware Memory Clearance for Long-Horizon LLM Agents|Boyu Yang|[2609.09115v1](https://arxiv.org/pdf/2609.09115v1)|
+|2026-09-08|2026-09-08|PlayTrain: An Efficient Reinforcement Learning Framework for LLM-Generated Adaptable JavaScript Games|Ryan Truong|[2609.09059v1](https://arxiv.org/pdf/2609.09059v1)|
+|2026-09-08|2026-09-08|Time-Varying Data as Sheaves: an Invitation to Narratives|Wilmer Leal|[2609.09056v1](https://arxiv.org/pdf/2609.09056v1)|
+|2026-09-08|2026-09-08|The Audit Decides the Verdict: Instrument Effects Rival Demographic Bias in LLM Decision Audits|Siddharth Vohra|[2609.09048v1](https://arxiv.org/pdf/2609.09048v1)|
+|2026-09-08|2026-09-08|Omni Interaction Agent Technical Report| Orantqing|[2609.08977v1](https://arxiv.org/pdf/2609.08977v1)|
 ## Update on 2026-09-07
 
 ### World Model
