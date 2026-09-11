@@ -325,6 +325,48 @@ TODO:
 
 
 
+
+## Update on 2026-09-11
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-10|2026-09-10|A Chip-scale Space-time Multiplexed Gaussian Boson Sampling Processor Beyond 10,000 Photons|Yu-Xuan Fu|[2609.11922v1](https://arxiv.org/pdf/2609.11922v1)|
+|2026-09-10|2026-09-10|Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data|Atindra Jha|[2609.11917v1](https://arxiv.org/pdf/2609.11917v1)|
+|2026-09-10|2026-09-10|Can Edge-Deployable Vision-Language Models Identify Species?|William Zhou|[2609.11916v1](https://arxiv.org/pdf/2609.11916v1)|
+|2026-09-10|2026-09-10|Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact|Masahiro Kato|[2609.11915v1](https://arxiv.org/pdf/2609.11915v1)|
+|2026-09-10|2026-09-10|Artificial Id: Drive and Persistent Alignment in Agentic AI|Yakov Pyotr Shkolnikov|[2609.11911v1](https://arxiv.org/pdf/2609.11911v1)|
+|2026-09-10|2026-09-10|TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription|Akshaj Gupta|[2609.11904v1](https://arxiv.org/pdf/2609.11904v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-10|2026-09-10|GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay|Boning Li|[2609.11923v1](https://arxiv.org/pdf/2609.11923v1)|
+|2026-09-10|2026-09-10|General Quantification of Covariate and Concept Shifts|Hongbo Chen|[2609.11918v1](https://arxiv.org/pdf/2609.11918v1)|
+|2026-09-10|2026-09-10|MindTopo: Can Foundation Models Reason in Topological Space?|Yunfei Ge|[2609.11900v1](https://arxiv.org/pdf/2609.11900v1)|
+|2026-09-10|2026-09-10|CausalArena: Benchmarking Causal Discovery in the Foundation Model Era|Zi-Rong Li|[2609.11897v1](https://arxiv.org/pdf/2609.11897v1)|
+|2026-09-10|2026-09-10|Domain-Specific Hallucination Detection in Large Language Models|Varun Teja Chundru|[2609.11878v1](https://arxiv.org/pdf/2609.11878v1)|
+|2026-09-10|2026-09-10|On the Regularization Landscape for the Linear Recommendation Models|Dong Li|[2609.11876v1](https://arxiv.org/pdf/2609.11876v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-10|2026-09-10|ActSafeGuard: Differentiable and Training-Aligned Constraint Enforcement for Flow-Matching Policies|Jianming Ma|[2609.11697v1](https://arxiv.org/pdf/2609.11697v1)|
+|2026-09-10|2026-09-10|2AM: Grounding Agent-Side Memory as Guidance for Steerable Action Models in Long-Horizon Manipulation|Yutong Hu|[2609.11308v1](https://arxiv.org/pdf/2609.11308v1)|
+|2026-09-09|2026-09-09|When Validation Stops Learning: Auditing Update Admission for Continual Embodied Agents|Qinzhen Ma|[2609.10873v1](https://arxiv.org/pdf/2609.10873v1)|
+|2026-09-09|2026-09-09|HuRo: Robotizing Human Videos for Scalable VLA Pretraining|Jinho Jeong|[2609.10706v1](https://arxiv.org/pdf/2609.10706v1)|
+|2026-09-09|2026-09-09|Show-Harness: Just a VLM Agent Can Play Robots|Yanzhe Chen|[2609.10522v1](https://arxiv.org/pdf/2609.10522v1)|
+|2026-09-09|2026-09-09|Time-Frequency Geometric Cross-Attention for Chunked Vision-Language-Action Models|Shengye Dong|[2609.09925v1](https://arxiv.org/pdf/2609.09925v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-10|2026-09-10|Near-Optimal Reinforcement Learning with Multi-Step Transition Lookahead|Corentin Pla|[2609.11807v1](https://arxiv.org/pdf/2609.11807v1)|
+|2026-09-10|2026-09-10|ORCH: Organizational Principles Enable Collective Intelligence in Embodied AI|Zhengran Ji|[2609.11737v1](https://arxiv.org/pdf/2609.11737v1)|
+|2026-09-10|2026-09-10|When Agents Disagree: Bayesian Backward Reasoning as a Label-Free Anchor for Multi-Agent Collective Decision-Making|Ken Chen|[2609.11709v1](https://arxiv.org/pdf/2609.11709v1)|
+|2026-09-10|2026-09-10|COBRA-Skills: Contextual Bandit-Guided Evolution for Agent Skill Optimization|Pingchen Lu|[2609.11682v1](https://arxiv.org/pdf/2609.11682v1)|
+|2026-09-10|2026-09-10|Ecdysis: Efficient and Effective Training of Runtime Harnesses for LLM Agents|Ruiqing Yue|[2609.11677v1](https://arxiv.org/pdf/2609.11677v1)|
+|2026-09-10|2026-09-10|Autonomy, Social Norms, and Alignment: Towards a Developmental Framework for Autonomous Artificial Agents|Marica Notte|[2609.11660v1](https://arxiv.org/pdf/2609.11660v1)|
 ## Update on 2026-09-09
 
 ### World Model
